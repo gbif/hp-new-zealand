@@ -4,6 +4,8 @@
   href: /about
 - text: Data
   href: /data
+- text: Resources
+  href: /resources
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
