@@ -1,6 +1,6 @@
 ---
 lang-ref: home
-layout: home
+layout: compose
 title: GBIF-NZ
 description: Help build Aotearoa New Zealand's biodiversity data community.
 background: assets/images/pororari.jpg
@@ -13,6 +13,13 @@ cta:
   - text: About
     href: /about
 permalink: /
+composition:
+  - type: heroImage
+  - data: home.stats
+    type: stats
+  - type: pageMarkdown
+  - type: latestPosts
+    data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
 ---
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
