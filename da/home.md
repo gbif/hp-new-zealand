@@ -1,5 +1,5 @@
 ---
-lang-ref: home
+lang-ref: home-not-anymore-a-link-example
 layout: home
 title: Skabelon overskrift
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
