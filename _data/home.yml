@@ -1,0 +1,26 @@
+# The home landing page
+
+stats:
+  background: "#ffffff55"
+  features:
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://api.gbif.org/v1/occurrence/count?country=NZ">100,000</span>
+      #klass: cifras
+      description: Occurrences
+      background: /assets/images/landing_page/icons/occurrences.png
+      href: /data
+    - title: <span data-ajax-path="facets.0.counts.0.count" data-ajax-url="https://api.gbif.org/v1/dataset/search?facet=type&type=CHECKLIST&publishing_country=NZ&limit=0">100,000</span> 
+      description: Species lists
+      background: /assets/images/landing_page/icons/specieslist.png
+      href: /data
+    #- title: 4.919
+    #  description: Taxa
+    #  background: /assets/images/landing_page/iconos_cifras/taxa.png
+    #  href: /data
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=NZ&limit=0&isEndorsed=true">100,000</span>
+      description: Publishers
+      background: /assets/images/landing_page/icons/publishers.png
+      href: https://www.gbif.org/publisher/search?country=NZ     
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO&limit=0">100,000</span>
+      description: Datasets
+      background: /assets/images/landing_page/icons/datasets.png
+      href: https://www.gbif.org/dataset/search?publishing_country=NZ
