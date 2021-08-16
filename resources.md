@@ -2,9 +2,9 @@
 lang-ref: resources
 title: Resources
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/moss.jpg
+background: /assets/images/rakiura.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by Aaron Wilton.
 height: 70vh
 ---
 

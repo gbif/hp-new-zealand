@@ -2,10 +2,10 @@
 lang-ref: about
 title: About
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/moss.jpg
+background: /assets/images/craigieburn-range.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
-height: 70vh
+  Craigieburn Range, Canterbury.  Photo by Aaron Wilton.
+height: 55vh
 ---
 
 ## GBIF
