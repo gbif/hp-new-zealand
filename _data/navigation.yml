@@ -5,7 +5,21 @@
 - text: Data
   href: /data
 - text: Resources
-  href: /resources
+  menu:
+  - text: Resources
+    href: /resources
+  - text: Get involved
+    href: /get-involved
+  - text: Contributing data
+    href: /mobilising
+  - text: Using data
+    href: /using-data
+  - text: Related resources
+    href: /related-resources
+  - text: testing images
+    href: /blank-1
+  - text: testing images 2
+    href: /blank-2
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
@@ -19,4 +33,4 @@
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: News
-  href: /news/
+  href: /news

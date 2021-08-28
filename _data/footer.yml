@@ -5,7 +5,7 @@
 columns:
   - name: Partners
     links:
-    - text: Ministy of Business, Innovation & Employment
+    - text: Ministry of Business, Innovation & Employment
       href: https://www.mbie.govt.nz
     - text: Department of Conservation
       href: https://www.doc.govt.nz
