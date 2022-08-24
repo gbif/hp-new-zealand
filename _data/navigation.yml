@@ -6,31 +6,31 @@
   href: /data
 - text: Resources
   menu:
-  - text: Resources
-    href: /resources
   - text: Get involved
     href: /get-involved
-  - text: Contributing data
-    href: /mobilising
   - text: Using data
     href: /using-data
+  - text: Contributing data
+    href: /mobilising
+  - text: Standards and tools
+    href: /standards-and-tools 
   - text: Related resources
     href: /related-resources
   - text: testing images
     href: /blank-1
   - text: testing images 2
     href: /blank-2
-- text: Links
-  menu: # Dropdown menu (one level deep only)
-  - text: Base theme demo
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Docs" # Title for block of menu items
-  - text: Jekyll documentation
-    href: https://jekyllrb.com/docs/pages/
-  - text: Markdown tutorial
-    href: https://guides.github.com/features/mastering-markdown/
-  - text: YAML tutorial
-    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+#- text: Links
+#  menu: # Dropdown menu (one level deep only)
+#  - text: Base theme demo
+#    href: https://hp-base-theme.gbif-staging.org/
+#  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#  - text: "Docs" # Title for block of menu items
+#  - text: Jekyll documentation
+#    href: https://jekyllrb.com/docs/pages/
+#  - text: Markdown tutorial
+#    href: https://guides.github.com/features/mastering-markdown/
+#  - text: YAML tutorial
+#    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: News
   href: /news

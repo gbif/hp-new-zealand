@@ -1,29 +1,27 @@
 ---
-lang-ref: get-involved
-title: Get involved
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+lang-ref: getting-involved
+title: Getting involved
+description: How can you become involved with GBIF New Zealand?
 background: /assets/images/white-faced-heron-1.jpg
 imageLicense: |
   Photo by Aaron Wilton.
 height: 70vh
 ---
 
-There are multiple ways to become involved 
+There are multiple ways you can get involved 
 
 * Becoming a data provider
-* telling us about news and events that would interest the community
+* telling us about news and events that would interest the biodiveristy data community
 * Using GBIF data
 * Spread the word
 * Join the conversation
 
-## Get involved
-* web content
-* ...
+The sections below provide a brief of these ways of participating.
 
 ### Join the conversation
 
-GBIF-NZ at start of journey -- how can build a community that enables us to share biodiversity knowledge and data in ways that benefit all of NZ,
- and help with global obligations whilst respecting FAIR & CARE, treaty of waitangi.
+GBIF New Zealand is at start of a new journey.  How can we build a community and processes that enable us to share biodiversity knowledge and data in ways that are ethical, equitable and benefit all of NZ.
+ 
 
 Want to hear about
 * questions
