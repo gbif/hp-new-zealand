@@ -20,7 +20,7 @@ For more information about GBIF and its mission please visit the [GBIF website](
 ## GBIF New Zealand
 Aotearoa New Zealand has been a participant in GBIF since 2001 and established a national node, GBIF New Zealand, in 2002.  However GBIF New Zealand has had a limited web presence until 2022 and has primarily functioned to support the mobilisation of biodiversity datasets held by New Zealand institutes.  
 
-GBIF New Zealand is supported by the Ministry for Business, Innovation & Employment (MBIE).  MBIE makes the appoints the formal roles required to participate in the GBIF network (ie., Head of Delegation and Node Manager), and oversees the work programme for GBIF New Zealand.
+GBIF New Zealand is supported by the Ministry for Business, Innovation & Employment (MBIE).  MBIE makes the appointments to the formal roles required for Aotearoa New Zealand to participate in the GBIF network (ie., Head of Delegation and Node Manager), and oversees the work programme for GBIF New Zealand.
 
 In 2021 GBIF New Zealand participated in GBIF's hosted node initiative resulting in the development of a New Zealand portal. GBIF New Zealand hopes this portal, which is hosted on GBIF infrastructure,  will raise awareness and use of the biodiversity data that are being mobilised, and that it will help to stimulate the development of a community of biodiversity data users and publishers.  
 
@@ -28,7 +28,7 @@ In 2021 GBIF New Zealand participated in GBIF's hosted node initiative resulting
 
 **MBIE ?contact:**: Heather Penny
 
-**Head of delegation**:  Meredith McKay, Department of Conservation
+**Head of Delegation**:  Meredith McKay, Department of Conservation
 
 **Node Manager**: Aaron Wilton, Manaaki Whenua - Landcare Research
 
