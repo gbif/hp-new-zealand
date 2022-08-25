@@ -1,3 +1,43 @@
 @import "theme/_main";
 
 // You can add additional styling here
+
+.tagOccurrence {
+    border: thin solid green;
+    border-radius: 4px;
+    font-size: x-small;
+    margin-left: 15px;
+    padding: 0px 5px 0px 5px;
+}
+
+.tagMetadata {
+    border: thin solid blue;
+    border-radius: 4px;
+    font-size: x-small;
+    margin-left: 15px;
+    padding: 0px 5px 0px 5px;
+}
+
+.tagNomen {
+    border: thin solid orange;
+    border-radius: 4px;
+    font-size: x-small;
+    margin-left: 15px;
+    padding: 0px 5px 0px 5px;
+}
+
+.tagTaxon {
+    border: thin solid orange;
+    border-radius: 4px;
+    font-size: x-small;
+    margin-left: 15px;
+    padding: 0px 5px 0px 5px;
+}
+
+.tagIndex {
+    border: thin solid purple;
+    border-radius: 4px;
+    font-size: x-small;
+    margin-left: 15px;
+    padding: 0px 5px 0px 5px;
+}
