@@ -1,7 +1,7 @@
 ---
 lang-ref: resources
 title: Resources
-description: A list of some of the resources that relate to biodiversity, biodiversity data and biodiversity informatics.
+description: A list of some resources that relate to biodiversity, biodiversity data and biodiversity informatics.
 background: /assets/images/southern-rata-1.jpg
 imageLicense: (c) Aaron Wilton, 2021. |
   Photo - Southern Rata.  Aaron Wilton.
