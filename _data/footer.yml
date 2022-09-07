@@ -11,12 +11,13 @@ columns:
       href: https://www.doc.govt.nz
     - text: Manaaki Whenua - Landcare Research
       href: https://www.landcareresearch.co.nz
-    - text: Museum of New Zealand - Te Papa Tongarewa
-      href: https://www.tepapa.govt.nz
+   # - text: Museum of New Zealand - Te Papa Tongarewa
+   #   href: https://www.tepapa.govt.nz
 
-  - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+  #- name: Code
+  #  description: | # Can be Markdown
+  #    This project is open source. See `_data/footer.yml` to customize the footer.
+  #  background: /assets/images/landing_page/icons/logo-xl-icon.svg
   
   - name: Contact
     description: | # Can be Markdown

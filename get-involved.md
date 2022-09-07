@@ -8,14 +8,14 @@ imageLicense: |
 height: 70vh
 ---
 
-There are multiple ways you can get involved.  The sections below provide a brief description of these ways you can participate.
+There are multiple ways you can get involved.  The sections below provide a brief description of the main ways you can participate.
 
 ### Make use of the biodiversity data
 Use the data mobilised through the GBIF to support your research or interests, and then acknowledge the use of that data.
 For more information see [Using data](/using-data).  
 
 ### Mobilise your biodiversity data
-Mobilise the biodversity data that your or your organisation holds through the GBIF network.  For more information see [Mobilising Biodiversity Data](/mobilising).
+Become a data publisher by mobilising the biodversity data that your organisation holds through the GBIF network.  For more information see [Mobilising Biodiversity Data](/mobilising).
 
 ### Join the conversation
 
@@ -31,16 +31,16 @@ Topics we want to hear about:
 * priorities for data
 * ideas to help grow the biodiversity data community in Aotearoa New Zealand
 
-We hope to provide a number of avenues take part in these conversations.  In the meantime please contact us via email (XXXXX) 
+We hope to provide a number of avenues to take part in these conversations in the future.  In the meantime please contact us via email (XXXXX) 
 
 ### Tell us about it
 Tell us about biodiversity data related activity that we can highlight as news items on the GBIF-NZ website.  These activities may include a range of topics such as:
-* biodiveristy or biodiversity data events
+* biodiversity or biodiversity data events
 * mobilisation of biodiversity data sets
 * establishment and/or progress of biodiversity data  initatives
 * research using GBIF mobilised
 * benefits that have occurred through the use or mobilisation of biodiversity data
-* new biodiveristy data tools
+* new biodiversity data tools
 
 Please send news items, or suggestions for news items, to XXXX.  If sending a new items please include:
 * A title for the news item

@@ -2,8 +2,8 @@
 title:  "National Environmental Data Centre"
 date:   2022-08-23 15:20:00 +0100
 categories: ["data", "environment", "CRI"]
-#lang-ref: for authors
-background: assets/images/news/2022-08-24-nedclogo.png\
+#lang-ref: National Environmental Data Centre
+background: assets/images/posts/NEDC-logo.png
 ---
 The National Environmental Data Centre (NEDC) aims to provide easy access to environmental datasets held by New Zealand's seven Crown Research Institute (CRI).  
 

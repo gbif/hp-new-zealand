@@ -1,12 +1,14 @@
 ---
 lang-ref: resources
 title: Resources
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/rakiura.jpg
-imageLicense: |
-  Photo by Aaron Wilton
+description: The most efficient way to prepare and publish data to the GBIF network is using Darwin Core-based datasets that are published through GBIF's Integrated Publishing Toolkit.  
+background: /assets/images/starfish-1.jpg
+imageLicense: (c) V.A. Wilton, 2021 |
+  Photo by V.A. Wilton.
 height: 70vh
 ---
+
+The resources below provide key links to get started and to find additional information on mobilisation biodiversity data using Darwin Core and the Integrated Publishing Toolkit.
 
 ## Data standards and formats
 
@@ -21,22 +23,22 @@ height: 70vh
     <tbody>
         <tr>
             <td>Darwin Core (DwC)</td>
-            <td>DwC is a standard maintained by Biodiveristy Standards International.  It provides a list of terms to faciliate sharing of information about biological diversity.  It is based on the occurrence of organsisms in nature as recorded by observations, specimens and samples.</td>
+            <td>DwC provides the primary standard for mobilising biodiversity data in the GBIF network. It is used to describe the occurrence of organsisms in nature as recorded by observations, specimens and samples. DwC is a standard maintained by Biodiveristy Standards International (TDWG). </td>
             <td><a href="https://www.tdwg.org/standards/dwc/" target="_blank">Darwin Core Standard</a><br /><br /><a href="https://dwc.tdwg.org/terms/" target="_blank">DarwinCore Quick Reference Guide</a></td>
         </tr>
         <tr>
             <td>Darwin Core Archive (DwC-A)</td>
-            <td>to add</td>
-            <td>to add</td>
+            <td>DwC-A is the main format used to publish biodiversity data in the GBIF network.  It is star-schema archive (ZIP) that contains a set of files that includes a metadata file, an descriptor file that defines the structure and relationship of the data files, and one or more data files in TSV and/or CSV format.</td>
+            <td><a href="https://www.gbif.org/darwin-core" target="_blank">GBIF page on Darwin Core and archives.</a></td>
         </tr>
     <tr>
-        <td>EML</td>
-        <td>to add</td>
-        <td>to add</td>
+        <td>Ecological Metadata Language (EML)</td>
+        <td>EML is used in a Darwin Core Archive to record the metadata for the published resource. EML provides a vocabulary for documenting research data.</td>
+        <td><a href="https://eml.ecoinformatics.org/" target="_blank">EML Standard</a></td>
     </tr>
     <tr>
         <td>Comma Separated Values (CSV)</td>
-        <td>to add</td>
+        <td>CSV files are used for some data files within a Darwin Core Archive.  CSV is a commonly used format that uses a comma to separate values within a record, and line breaks (CRLF) to separate records.  Care must be taken when using CSV with biodiversity data as many fields may contain commas, line breaks and other characters that can result in poorly formed CSV.</td>
         <td>
             <a href="https://www.rfc-editor.org/rfc/rfc4180.html" target="_blank">IANA rfc4180</a>
             <br /><br />
@@ -45,7 +47,7 @@ height: 70vh
     </tr>
         <tr>
             <td>Tab Separated Values (TSV)</td>
-            <td>to add</td>
+            <td>TSV files are used for some data files within a Darwin Core Archive. TSV is a commonly used format that uses the tab character to separate values within a record.  TSV is often preferred over CSV because the field separator of TSV (tab) is less likely to contained in the data than comma used by CSV.</td>
             <td>
                 <a href="https://www.w3.org/TR/tabular-data-model" target="_blank">W3C Model for Tabular Data</a>
                 <br /><br />
@@ -61,25 +63,25 @@ height: 70vh
     <thead>
         <tr>
             <th style="width:25%">Name</th>
-            <th style="width:50%">Purpose</th>
-            <th style="width:25%">Scope</th>
+            <th style="width:25%">Purpose</th>
+            <th style="width:50%">Scope</th>
         </tr>
     </thead>
     <tbody>
-    <tr>
-        <td><a href="https://www.gbif.org/tools/data-validator" target="_blank">GBIF Data Validator</a></td>
-        <td>Format validation</td>
-        <td>Validates a DarwinCore-Archive file</td>
-    </tr>
     <tr>
         <td><a href="https://www.gbif.org/ipt" target="_blank">Internet Publishing Toolkit (IPT)</a></td>
         <td>Mobilisation</td>
         <td>to add</td>
     </tr>
+    <tr>
+        <td><a href="https://www.gbif.org/tools/data-validator" target="_blank">GBIF Data Validator</a></td>
+        <td>Format validation</td>
+        <td>Validates a DarwinCore-Archive file</td>
+    </tr>
         <tr>
             <td><a href="https://www.nzor.org.nz" target="_blank">New Zealand Organisms Register (NZOR)</a></td>
             <td>Data validation</td>
-            <td>A list of the names of organisms relevant to New Zealand. In addition to the website, NZOR provides <a href="https://www.nzor.org.nz/matches" target="__blank">Matching</a> service that can be used to validate names.</td>
+            <td>A list of the names of organisms relevant to New Zealand. In addition to the website, NZOR provides <a href="https://www.nzor.org.nz/matches" target="_blank">Matching</a> service that can be used to validate names.</td>
         </tr>
     </tbody>
 </table>
@@ -89,22 +91,34 @@ height: 70vh
 <table>
     <thead>
         <tr>
-            <th style="width:25%">Resource</th>
-            <th style="width:25%">Scope</th>
+            <th>Resource</th>
+            <th>Source</th>
         </tr>
     </thead>
     <tbody>
-    <tr>
-        <td><a href="https://www.gbif.org/document/80509/principles-of-data-quality" target="_blank">Chapman 2005 Principles of data quality.</a></td>
-        <td>to add</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.gbif.org/ipt" target="_blank">to add</a></td>
-        <td>to add</td>
-    </tr>
         <tr>
-            <td><a href="https://www.nzor.org.nz" target="_blank">to add</a></td>
-            <td>to add</td>
+            <td><a href="https://www.gbif.org/document/80509/principles-of-data-quality" target="_blank">Chapman 2005 Principles of data quality.</a></td>
+            <td>GBIF</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.gbif.org/data-quality-requirements" target="_blank">Data Quality Requirements</a></td>
+            <td>GBIF</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.gbif.org/data-quality-requirements-occurrences" target="_blank">Data Quality Requirements:  Occurrence datasets</a></td>
+            <td>GBIF</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/gbif/ipt/wiki/checklistData#templates" target="_blank">Data Quality Requirements:  Checklists</a></td>
+            <td>GBIF</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/gbif/ipt/wiki/samplingEventData#templates" target="_blank">Data Quality Requirements:  Sampling event datasets</a></td>
+            <td>GBIF</td>
+        </tr>
+         <tr>
+            <td><a href="https://www.tdwg.org/community/bdq/" target="_blank">Biodiversity Data Quality</a></td>
+            <td>TDWG</td>
         </tr>
     </tbody>
 </table>

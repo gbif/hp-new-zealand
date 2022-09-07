@@ -2,10 +2,10 @@
 lang-ref: using-data
 title: Using data
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/starfish-1.jpg
-imageLicense: (c) V.A. Wilton, 2021 |
-  Photo by V.A. Wilton.
-height: 60vh
+background: /assets/images/rakiura.jpg
+imageLicense: |
+  Photo by Aaron Wilton
+height: 70vh
 ---
 
 
