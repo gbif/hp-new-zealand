@@ -13,8 +13,10 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=NZ&limit=0&isEndorsed=true">100,000</span>
       description: Publishers
       background: /assets/images/landing_page/icons/publishers.svg
-      href: https://www.gbif.org/publisher/search?country=NZ     
+      href: https://www.gbif.org/publisher/search?country=NZ
+      blankTarget: true 
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=NZ&limit=0">100,000</span>
       description: Datasets
       background: /assets/images/landing_page/icons/datasets.svg
       href: https://www.gbif.org/dataset/search?publishing_country=NZ
+      blankTarget: true 

@@ -11,11 +11,11 @@ height: 70vh
 There are multiple ways you can get involved.  The sections below provide a brief description of the main ways you can participate.
 
 ### Make use of the biodiversity data
-Use the data mobilised through the GBIF to support your research or interests, and then acknowledge the use of that data.
+Use the data mobilised through the GBIF network to support your research or interests, and then acknowledge the use of that data.
 For more information see [Using data](/using-data).  
 
 ### Mobilise your biodiversity data
-Become a data publisher by mobilising the biodversity data that your organisation holds through the GBIF network.  For more information see [Mobilising Biodiversity Data](/mobilising).
+Become a data publisher by mobilising the biodiversity data that your organisation holds through the GBIF network.  For more information see [Mobilising Biodiversity Data](/mobilising).
 
 ### Join the conversation
 
@@ -23,8 +23,7 @@ GBIF New Zealand is at start of a new phase.  How can we build a community and p
  
 Topics we want to hear about:
 * what are the best was of reaching you?  (e.g., mail list; blog; social media)
-* questions
-* concerns
+* questions you may have
 * impediments to mobilising data
 * datasets you consider a priority for mobilising
 * training needs
@@ -40,7 +39,7 @@ Tell us about biodiversity data related activity that we can highlight as news i
 * establishment and/or progress of biodiversity data  initatives
 * research using GBIF mobilised
 * benefits that have occurred through the use or mobilisation of biodiversity data
-* new biodiversity data tools
+* new tools of collecting, managing or using biodiversity data
 
 Please send news items, or suggestions for news items, to XXXX.  If sending a new items please include:
 * A title for the news item
