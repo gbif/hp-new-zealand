@@ -1,7 +1,13 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: About
-  href: /about
+  menu:
+    - text: About GBIF-NZ
+      href: /about
+    - text: Strategy
+      href: /strategy
+    - text: Roadmap
+      href: /roadmap
 - text: Data
   href: /data
 - text: Resources
@@ -16,10 +22,8 @@
     href: /standards-and-tools 
   - text: Related resources
     href: /related-resources
-  - text: testing images
-    href: /blank-1
-  - text: testing images 2
-    href: /blank-2
+
+
 #- text: Links
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Base theme demo

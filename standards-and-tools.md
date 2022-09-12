@@ -71,12 +71,17 @@ The resources below provide key links to get started and to find additional info
     <tr>
         <td><a href="https://www.gbif.org/ipt" target="_blank">Internet Publishing Toolkit (IPT)</a></td>
         <td>Mobilisation</td>
-        <td>to add</td>
+        <td>IPT is a free, open source software tool that is used to publish biodiversity datasets to the GBIF network.</td>
     </tr>
     <tr>
         <td><a href="https://www.gbif.org/tools/data-validator" target="_blank">GBIF Data Validator</a></td>
         <td>Format validation</td>
-        <td>Validates a DarwinCore-Archive file</td>
+        <td>Validates a DarwinCore-Archive file.</td>
+    </tr>
+    <tr>
+        <td>Darwin Core Archives Examples</td>
+        <td>Templates for familiarisation</td>
+        <td>Example spreadsheet templates for <a href="https://ipt.gbif.org/manual/en/ipt/2.5/occurrence-data#templates" target="_blank">occurrence</a>, <a href="https://ipt.gbif.org/manual/en/ipt/2.5/checklist-data#templates" target="_blank">checklist</a> and <a href="https://ipt.gbif.org/manual/en/ipt/2.5/sampling-event-data#templates" target="_blank">sampling-event</a> datasets.</td>
     </tr>
         <tr>
             <td><a href="https://www.nzor.org.nz" target="_blank">New Zealand Organisms Register (NZOR)</a></td>
