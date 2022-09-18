@@ -1,6 +1,6 @@
 ---
-lang-ref: resources
-title: Resources
+lang-ref: Standards and tools
+title: Standards and tools
 description: The most efficient way to prepare and publish data to the GBIF network is using Darwin Core-based datasets that are published through GBIF's Integrated Publishing Toolkit.  
 background: /assets/images/starfish-1.jpg
 imageLicense: (c) V.A. Wilton, 2021 |
@@ -23,12 +23,12 @@ The resources below provide key links to get started and to find additional info
     <tbody>
         <tr>
             <td>Darwin Core (DwC)</td>
-            <td>DwC provides the primary standard for mobilising biodiversity data in the GBIF network. It is used to describe the occurrence of organsisms in nature as recorded by observations, specimens and samples. DwC is a standard maintained by Biodiveristy Standards International (TDWG). </td>
+            <td>DwC provides the primary standard for mobilising biodiversity data in the GBIF network. It is used to describe the occurrence of organsims in nature as recorded by observations, specimens and samples. DwC is a standard maintained by Biodiversity Standards International (TDWG). </td>
             <td><a href="https://www.tdwg.org/standards/dwc/" target="_blank">Darwin Core Standard</a><br /><br /><a href="https://dwc.tdwg.org/terms/" target="_blank">DarwinCore Quick Reference Guide</a></td>
         </tr>
         <tr>
             <td>Darwin Core Archive (DwC-A)</td>
-            <td>DwC-A is the main format used to publish biodiversity data in the GBIF network.  It is star-schema archive (ZIP) that contains a set of files that includes a metadata file, an descriptor file that defines the structure and relationship of the data files, and one or more data files in TSV and/or CSV format.</td>
+            <td>DwC-A is the main format used to publish biodiversity data in the GBIF network.  It is star-schema archive (ZIP) that contains a set of files that includes a metadata file, a descriptor file that defines the structure and relationship of the data files, and one or more data files in TSV and/or CSV format.</td>
             <td><a href="https://www.gbif.org/darwin-core" target="_blank">GBIF page on Darwin Core and archives.</a></td>
         </tr>
     <tr>
@@ -69,7 +69,7 @@ The resources below provide key links to get started and to find additional info
     </thead>
     <tbody>
     <tr>
-        <td><a href="https://www.gbif.org/ipt" target="_blank">Internet Publishing Toolkit (IPT)</a></td>
+        <td><a href="https://www.gbif.org/ipt" target="_blank">Integrated Publishing Toolkit (IPT)</a></td>
         <td>Mobilisation</td>
         <td>IPT is a free, open source software tool that is used to publish biodiversity datasets to the GBIF network.</td>
     </tr>
@@ -86,7 +86,7 @@ The resources below provide key links to get started and to find additional info
         <tr>
             <td><a href="https://www.nzor.org.nz" target="_blank">New Zealand Organisms Register (NZOR)</a></td>
             <td>Data validation</td>
-            <td>A list of the names of organisms relevant to New Zealand. In addition to the website, NZOR provides <a href="https://www.nzor.org.nz/matches" target="_blank">Matching</a> service that can be used to validate names.</td>
+            <td>A list of the names of organisms relevant to New Zealand. In addition to the website, NZOR provides a <a href="https://www.nzor.org.nz/matches" target="_blank">Matching</a> service that can be used to validate names.</td>
         </tr>
     </tbody>
 </table>
@@ -103,6 +103,10 @@ The resources below provide key links to get started and to find additional info
     <tbody>
         <tr>
             <td><a href="https://www.gbif.org/document/80509/principles-of-data-quality" target="_blank">Chapman 2005 Principles of data quality.</a></td>
+            <td>GBIF</td>
+        </tr>
+        <tr>
+            <td><a href="" target="_blank">Chapman - generalising sensitive species</a></td>
             <td>GBIF</td>
         </tr>
         <tr>

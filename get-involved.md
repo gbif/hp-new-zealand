@@ -19,45 +19,47 @@ Become a data publisher by mobilising the biodiversity data that your organisati
 
 ### Join the conversation
 
-GBIF New Zealand is at start of a new phase.  How can we build a community and processes that enable us to share biodiversity knowledge and data in ways that are ethical, equitable and benefit all of NZ?
+GBIF New Zealand is at the start of a new phase.  How can we build a community and processes that enable us to share biodiversity data in ways that are ethical, equitable and benefit all of NZ?
  
 Topics we want to hear about:
 * what are the best was of reaching you?  (e.g., mail list; blog; social media)
 * questions you may have
-* impediments to mobilising data
 * datasets you consider a priority for mobilising
-* training needs
-* priorities for data
+* impediments to mobilising data
+* training needs to mobilise and use the data
 * ideas to help grow the biodiversity data community in Aotearoa New Zealand
 
 We hope to provide a number of avenues to take part in these conversations in the future.  In the meantime please contact us via email (XXXXX) 
 
 ### Tell us about it
-Tell us about biodiversity data related activity that we can highlight as news items on the GBIF-NZ website.  These activities may include a range of topics such as:
+Tell us about biodiversity data related activities that we can highlight as news items on the GBIF-NZ website.  These activities may include a range of topics such as:
 * biodiversity or biodiversity data events
 * mobilisation of biodiversity data sets
 * establishment and/or progress of biodiversity data  initatives
-* research using GBIF mobilised
+* research using GBIF mobilised data
 * benefits that have occurred through the use or mobilisation of biodiversity data
-* new tools of collecting, managing or using biodiversity data
+* new tools for collecting, managing or using biodiversity data
 
-Please send news items, or suggestions for news items, to XXXX.  If sending a new items please include:
-* A title for the news item
-* Text including information such as
-  * A description of the activity, data or event (please try to use non-technical language); 
-  * How the activity is/will benefit the biodiversity data community
-  * Collaborations
-* Any relevant URLs
-* At least one image that we have permission to use on the website
-* Your contact details
+Please send a news item, or suggestions for news items, to XXXX.  
 
 ### Help spread the word
 
 * Invite us to give a presentation
-* Mention GBIF-NZ and/or GBIF in your articles, presentations etc whenever it is relevant
+* Mention GBIF New Zealand and/or GBIF in your articles, presentations etc whenever it is relevant
 * Encourage people or organisations with biodiversity data to mobilise that data using the GBIF network
 * Help translate, develop, and/or maintain content for this website
 
+### Help transcribe biodiversity data
+There are a number of online sites where volunteers can go to assist organisations by transcribing biodiversity data from images of notebook, diaries or collection objects.  At this stage these are predominantly for collections held overseas, however institutes in Aotearoa New Zealand do use these platforms periodically.
+
+Two examples of online portals, both relating to natural history collections, are:
+* [Digivol](https://volunteer.ala.org.au/)
+* [Notes from nature](https://www.zooniverse.org/organizations/md68135/notes-from-nature)
+
+Some natural history collections in New Zealand also welcome volunteers to assist on-site with imaging, transcription or other collection functions. These collections are mainly held by museums, universities, botanic gardens and Crown Research Institutes. If you would like to volunteer you should contact a local collection-holding organisation to see if they are welcoming volunteers.  Please note that due to various constraints not all institutes will be able to welcome volunteers. The following resources provide lists that may help you locate your local collection(s).
+* [List of herbaria in Australasia (Wikipedia)](https://en.wikipedia.org/wiki/List_of_herbaria_in_Australasia)
+* [Natural history museums in New Zealand (Wikipedia)](https://en.wikipedia.org/wiki/Category:Natural_history_museums_in_New_Zealand)
+* [New Zealand Plant collections (Royal New Zealand Institute of Horticulture)](https://www.rnzih.org.nz/pages/plantcollections.html)
 
 
 

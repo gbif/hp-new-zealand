@@ -33,7 +33,7 @@ The roadmap is split into two parts
     * Assist with mobilisation
     * Highlight new data sets
   * Identify needs for the NZ portal
-    * Does the current portal provide what the NZ comunity requires?
+    * Does the current portal provide what the NZ community requires?
     * What else do we need?  How do we get there?
   * Governance of GBIF-NZ
     * Protocol for approving publishers

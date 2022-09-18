@@ -21,12 +21,12 @@ height: 60vh
 * [Birds Online](https://www.birdsnz.org.nz/) <span class="tagNomen">nomenclatural data</span><span class="tagTaxon">taxonomic data</span>
 * [Biota of New Zealand](https://biotanz.landcareresearch.co.nz/) <span class="tagNomen">nomenclatural data</span><span class="tagTaxon">taxonomic data</span><span class="tagOccurrence">occurrence data</span>
 * data.govt.nz's [listings of biodiversity data](https://catalogue.data.govt.nz/dataset/?tags=biodiversity) <span class="tagMetadata">metadata</span>
-* Department of Conservation's page onto  [Biodiversity New Zealand resources](https://www.doc.govt.nz/nature/biodiversity/biodiversity-new-zealand-resources/) <span class="tagIndex">index</span>
+* Department of Conservation's page on  [Biodiversity New Zealand resources](https://www.doc.govt.nz/nature/biodiversity/biodiversity-new-zealand-resources/) <span class="tagIndex">index</span>
 * [iNaturalistNZ](https://inaturalist.nz/) <span class="tagOccurrence">occurrence data</span>
 * [Flora of New Zealand](https://nzflora.info/) <span class="tagNomen">nomenclatural data</span><span class="tagTaxon">taxonomic data</span> 
 * Genomics Aotearoa's [Aotearoa Genomic Data Repository](https://data.agdr.org.nz/)
 * Manaaki Whenua's [Systematics Collection Data](https://scd.landcareresearch.co.nz/) <span class="tagOccurrence">occurrence data</span>
-* [Museum of New Zealand Te Papa tongarewa's Collections Online](https://collections.tepapa.govt.nz/) <span class="tagOccurrence">occurrence data</span>
+* [Museum of New Zealand Te Papa Tongarewa's Collections Online](https://collections.tepapa.govt.nz/) <span class="tagOccurrence">occurrence data</span>
 * [National Invertebrate Collection, NIWA](https://niwa.co.nz/our-services/online-services/nic) <span class="tagOccurrence">occurrence data</span>
 * [National Environmental Data Centre](https://nedc.nz/) <span class="tagMetadata">metadata</span>
 * [National Vegetation Survey (NVS)](https://nvs.landcareresearch.co.nz/) <span class="tagOccurrence">occurrence data</span>
@@ -42,7 +42,7 @@ height: 60vh
   * Aotearoa New Zealand Biodiversity Strategy 2020 - [Te Mana o te Taiao](https://www.doc.govt.nz/nature/biodiversity/aotearoa-new-zealand-biodiversity-strategy/te-mana-o-te-taiao-summary/) 
 * Ministry for the Environment
   * [publications on biodiversity](https://environment.govt.nz/publications/?topic=17_4)
-* [Parlimentary Commisioner for the Environment](https://www.pce.parliament.nz/)
+* [Parliamentary Commissioner for the Environment](https://www.pce.parliament.nz/)
   * Report on [Aotearoa New Zealand's environmental reporting system, 2019](https://www.pce.parliament.nz/media/196940/focusing-aotearoa-new-zealand-s-environmental-reporting-system.pdf)
   * Report on [environmental research funding, 2020](https://www.pce.parliament.nz/media/197111/report-environmental-research-funding-review-pdf-32mb.pdf)
 * Royal Society Te Ap&#257;rangi
