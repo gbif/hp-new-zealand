@@ -1,6 +1,6 @@
 ﻿---
 title:  "National Environmental Data Centre"
-date:   2022-08-23 15:20:00 +0100
+date:   2022-09-18 15:20:00 +0100
 categories: ["data", "environment", "CRI"]
 #lang-ref: National Environmental Data Centre
 background: assets/images/posts/NEDC-logo.png

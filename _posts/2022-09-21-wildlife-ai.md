@@ -1,9 +1,9 @@
 ---
 title:  "New publisher: wildlife.ai"
-date:   2022-09-05 21:37:12 +0200
+date:   2022-09-21 21:37:12 +0200
 categories: machine-learning data-provider
 lang-ref: wildlife-ai
-background: https://via.placeholder.com/600x300
+background: assets/images/posts/wildlife-ai-2022-09-23.png
 ---
 
 GBIF New Zealand welcomes [wildlife.ai](https://www.wildlife.ai/) as a new publisher.

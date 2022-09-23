@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: compose
-title: GBIF-NZ
+title: GBIF New Zealand
 description: Explore biodiversity data for Aotearoa New Zealand and learn how you can contribute.
 background: assets/images/pororari.jpg
 imageLicense: |
