@@ -18,7 +18,7 @@ var siteConfig = {
       "predicates": [
         {
           "type": "in",
-          "key": "countryCode",
+          "key": "country",
           "values": ["NZ"]
         },
         {
