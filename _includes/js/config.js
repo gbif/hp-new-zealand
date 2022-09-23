@@ -13,6 +13,11 @@ var siteConfig = {
     }
   },
   occurrence: {
+    mapSettings: {
+      lat: -40.4291568,
+      lng: 172.2973463,
+      zoom: 3.5
+    },
     rootPredicate: {
       "type": "and",
       "predicates": [
