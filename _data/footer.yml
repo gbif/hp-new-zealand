@@ -14,34 +14,29 @@ columns:
    # - text: Museum of New Zealand - Te Papa Tongarewa
    #   href: https://www.tepapa.govt.nz
 
-  #- name: Code
-  #  description: | # Can be Markdown
+  - name: Meredith McKay
+    description:  | # Can be Markdown
+      * Head of Delegation
+      * Email: [hod@gbif.org.nz](mailto: hod@gbif.org.nz)
   #    This project is open source. See `_data/footer.yml` to customize the footer.
   #  background: /assets/images/landing_page/icons/logo-xl-icon.svg
   
-  - name: Contact
-    description: | # Can be Markdown
+  - name: Aaron Wilton
+    description:  |  # Can be Markdown
+      * Node Manager
+      * Email: [node-manager@gbif.org.nz](mailto: node-manager@gbif.org.nz)
      # Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Aotearoa New Zealand
-    connectIcons: false
+     # * Street name
+     # * 1234 postal code
+     # * Aotearoa New Zealand
+    #connectIcons: false
 
-  # EXAMPLE
-  #- name: Group name
-  #  description: |
-  #    An optional description. Can be markdown
-  #  links: # optional as well
-  #  - text: link title
-  #    href: http://example.com
-  #  - text: link title 2
-  #    href: http://example2.com
-  #  connectIcons: true # optional - show social icons (defined in _config.yml)
 
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 # Will be postfixed by "Powered by GBIF"
 # (Disabled by default, remove the '#' lines on the following two lines to enable.)
-license: >
-  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+other: |
+ * Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+ * [Privacy policy](/privacy)
