@@ -33,7 +33,7 @@ The research team suggest there are many more ways that the data from the NZGBS 
 * Which suburbs of the city should I focus on for a study of pīwakawaka (fantail) populations? 
 * Are our group's predator trapping efforts leading to any new species spotted in our area?
 
-To date, the MWLR team has uploaded the past four years (2018—2021) of data to GBIF for public access. These datasets include the full surveys and bird counts submitted in these years – not just the summarised information that is published in the annual State of Garden Birds report.
+The MWLR team has already uploaded the data for 2021 to GBIF for public access, and is now working on publishing the previous three years (2018—2020). These datasets include the full surveys and bird counts submitted in these years – not just the summarised information that is published in the annual State of Garden Birds report.
 
 New NZGBS datasets will be uploaded each year following the release of the State of Garden Birds report. 
 

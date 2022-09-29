@@ -1,6 +1,6 @@
 ---
 title:  "Biocultural Labels - a mechanism to advance aspirations for Indigenous data sovereignty."
-date:   2022-09-22 15:20:00 +0100
+date:   2032-09-22 15:20:00 +0100
 categories: ["data sovereignty", "indigenous communities"]
 lang-ref: local contexts biocultural labels
 background: assets/images/posts/local-contexts-logo.png
@@ -17,3 +17,7 @@ The BC (Biocultural) Labels extend the TK Label initiative to genetic resources 
 Local Contexts supports Indigenous communities to manage their intellectual and cultural property, cultural heritage, environmental data and genetic resources within digital environments. Local Contexts recognizes the inherent sovereignty that Indigenous communities have over knowledge and data that comes from their lands, territories, and waters.
 
 The Local Contexts Hub provides an interface to apply the Traditional Knowledge (TK) and Biocultural (BC) Notices and Labels to ground Indigenous data sovereignty.
+
+Additional information
+Anderson, J.; Hudson, M. (2020) The Biocultural Labels Initiative: Supporting Indigenous rights in data derived from genetic resources.  Biodiversity Information Science and Standards 4: e59230, [doi: 10.3897/biss.4.59230](https://doi.org/10.3897/biss.4.59230)
+

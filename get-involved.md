@@ -29,7 +29,7 @@ Topics we want to hear about:
 * training needs to mobilise and use the data
 * ideas to help grow the biodiversity data community in Aotearoa New Zealand
 
-We hope to provide a number of avenues to take part in these conversations in the future.  In the meantime please contact us via email (XXXXX) 
+We hope to provide a number of avenues to take part in these conversations in the future.  In the meantime please contact us via [email](mailto:gbif.newzealand+nodemanager@gmail.com) 
 
 ### Tell us about it
 Tell us about biodiversity data related activities that we can highlight as news items on the GBIF-NZ website.  These activities may include a range of topics such as:
@@ -40,7 +40,7 @@ Tell us about biodiversity data related activities that we can highlight as news
 * benefits that have occurred through the use or mobilisation of biodiversity data
 * new tools for collecting, managing or using biodiversity data
 
-Please send a news item, or suggestions for news items, to XXXX.  
+Please send a news item, or suggestions for news items, to [gbif.newzealand+nodemanager@gmail.com](mailto:gbif.newzealand+nodemanager@gmail.com).  
 
 ### Help spread the word
 

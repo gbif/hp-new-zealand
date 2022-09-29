@@ -1,6 +1,6 @@
 ---
 title:  "New publisher: wildlife.ai"
-date:   2022-09-21 21:37:12 +0200
+date:   2032-09-21 21:37:12 +0200
 categories: machine-learning data-provider
 lang-ref: wildlife-ai
 background: assets/images/posts/wildlife-ai-2022-09-23.png

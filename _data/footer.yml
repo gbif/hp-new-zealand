@@ -9,7 +9,7 @@ columns:
       href: https://www.mbie.govt.nz
     - text: Department of Conservation
       href: https://www.doc.govt.nz
-    - text: Manaaki Whenua - Landcare Research
+    - text: Manaaki Whenua — Landcare Research
       href: https://www.landcareresearch.co.nz
    # - text: Museum of New Zealand - Te Papa Tongarewa
    #   href: https://www.tepapa.govt.nz
@@ -17,14 +17,14 @@ columns:
   - name: Meredith McKay
     description:  | # Can be Markdown
       * Head of Delegation
-      * Email: [hod@gbif.org.nz](mailto: hod@gbif.org.nz)
+      * Interim email: [gbif.newzealand+hod@gmail.com](mailto: gbif.newzealand+hod@gmail.com)
   #    This project is open source. See `_data/footer.yml` to customize the footer.
   #  background: /assets/images/landing_page/icons/logo-xl-icon.svg
   
   - name: Aaron Wilton
     description:  |  # Can be Markdown
       * Node Manager
-      * Email: [node-manager@gbif.org.nz](mailto: node-manager@gbif.org.nz)
+      * Interim email: [gbif.newzealand+nodemanager@gmail.com](mailto: gbif.newzealand+nodemanager@gmail.com)
      # Social icons links defined in `_config.yml`
      # * Street name
      # * 1234 postal code

@@ -132,22 +132,22 @@ The timing of activities can be aligned against phases of implementation.
     </tr>
     <tr>
         <td>Establish</td>
-        <td></td>
+        <td>Establish processes, programmes and infrastucture to support GBIF New Zealand</td>
         <td>2021-2023</td>
     </tr>
     <tr>
         <td>Engage</td>
-        <td>Building participation</td>
+        <td>Building participation in, and awareness of, GBIF New Zealand</td>
         <td>2023-2024</td>
     </tr>
     <tr>
         <td>Mobilise</td>
-        <td>capacity building and mobilisation</td>
+        <td>Work with the community to build capacity and support mobilisation of datasets.</td>
         <td>2024-2026</td>
     </tr>
     <tr>
         <td>Mature</td>
-        <td>maturing/supporting - include review of progress</td>
+        <td>Work with the community to review progress and plan the next steps, whilst still continuing to support mobilisation and capacity building.</td>
         <td>2025-</td>
     </tr>
 </table>
