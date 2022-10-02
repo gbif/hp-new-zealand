@@ -6,6 +6,7 @@ background: /assets/images/white-faced-heron-1.jpg
 imageLicense: |
   Photo by Aaron Wilton.
 height: 70vh
+toc: true
 ---
 
 There are multiple ways you can get involved.  The sections below provide a brief description of the main ways you can participate.

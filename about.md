@@ -6,6 +6,7 @@ background: /assets/images/craigieburn-range.jpg
 imageLicense: |
   Craigieburn Range, Canterbury.  Photo by Aaron Wilton.
 height: 55vh
+toc: true
 ---
 
 ## Global Biodiversity Information Facility (GBIF)

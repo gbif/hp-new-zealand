@@ -6,6 +6,7 @@ background: /assets/images/southern-rata-1.jpg
 imageLicense: (c) Aaron Wilton, 2021. |
   Photo - Southern Rata.  Aaron Wilton.
 height: 60vh
+toc: true
 ---
 
 ## Additional GBIF resources

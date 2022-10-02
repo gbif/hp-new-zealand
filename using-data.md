@@ -6,6 +6,7 @@ background: /assets/images/rock-pool-1.jpg
 imageLicense: (c) V.A. Wilton, 2021 |
   Photo by V.A. Wilton.
 height: 60vh
+toc: true
 ---
 The sections below provide a brief description of the main considerations when accessing data from the GBIF-network.
 

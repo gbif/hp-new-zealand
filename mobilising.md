@@ -6,6 +6,7 @@ background: /assets/images/fern-frond-1a.jpg
 imageLicense: (c) Aaron Wilton, 2021 |
   Photo by Aaron Wilton.
 height: 60vh
+toc: true
 ---
 
 There are several steps in preparing and mobilising your data sets.  The sections below provide only a brief overview of these steps and aims at assisting you to locate the comprehensive guides prepared by GBIF and are available via their website.  If you require advice or assistance on any part of mobilising your data please contact us.

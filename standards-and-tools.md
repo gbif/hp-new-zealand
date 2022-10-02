@@ -6,6 +6,7 @@ background: /assets/images/starfish-1.jpg
 imageLicense: (c) V.A. Wilton, 2021 |
   Photo by V.A. Wilton.
 height: 70vh
+toc: true
 ---
 
 The resources below provide key links to get started and to find additional information on mobilisation biodiversity data using Darwin Core and the Integrated Publishing Toolkit.

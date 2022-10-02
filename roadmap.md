@@ -6,6 +6,7 @@ background: /assets/images/albotross-1.jpg
 imageLicense: (c) V.A. Wilton, 2021 |
   Photo by V.A. Wilton.
 height: 60vh
+toc: true
 ---
 
 # Status 
