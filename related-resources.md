@@ -5,7 +5,7 @@ description: A list of some resources that relate to biodiversity, biodiversity 
 background: /assets/images/southern-rata-1.jpg
 imageLicense: (c) Aaron Wilton, 2021. |
   Photo - Southern Rata.  Aaron Wilton.
-height: 60vh
+height: 70vh
 toc: true
 ---
 

@@ -5,7 +5,7 @@ description: What are GBIF and GBIF New Zealand?
 background: /assets/images/craigieburn-range.jpg
 imageLicense: |
   Craigieburn Range, Canterbury.  Photo by Aaron Wilton.
-height: 55vh
+height: 70vh
 toc: true
 ---
 
