@@ -3,7 +3,7 @@ title:  "NZ Garden Bird Survey datasets published to GBIF"
 date:   2022-09-20 15:20:00 +0100
 categories: ["data", "citizen science"]
 lang-ref: for authors
-background: assets/images/posts/2022-08-14-garden-bird-survey.png
+background: assets/images/posts/2022-09-20-garden-bird-survey.png
 ---
 
 The New Zealand Garden Bird Survey (NZGBS) is the longest-running annual survey of biodiversity in Aotearoa New Zealand's urban and rural landscapes, and thousands of Kiwis contribute their observations to the NZGBS each year. For one week each winter, New Zealanders across the country spend an hour in their garden, school, or local park counting the highest number of birds of each species they see or hear. They submit this information, along with characteristics of the survey site and whether the birds were fed, to the NZGBS team at Manaaki Whenua – Landcare Research (MWLR) via an online form.
@@ -15,7 +15,7 @@ Manaaki Whenua researcher, Dr Angela Brandt, says the data lets us understand ho
 
 
 <figure>
-    <img src="{{site.url}}/assets/images/posts/62c2b01f18ce3-IMG_8428-2-tauhou.jpg" alt="aa"/>
+    <img src="{{site.url}}/assets/images/posts/2022-09-20-GBS-tauhou.jpg"/>
     <figcaption>'Pear into my eyes' photo of two tauhou (Zosterops lateralis) submitted by Nicholas Kelly to the annual NZGBS photo competition.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Manaaki Whenua researcher, Dr Angela Brandt, says the data lets us understand ho
 Dr Brandt is keen to acknowledge the contributions of the citizen scientists who generously collect the data, and states that mobilising the data through the GBIF network is another way to increase the awareness and use of the data. 
 
 <figure>
-    <img src="{{site.url}}/assets/images/posts/62bfc4d750815-011A3985 - kereru.jpg" alt="aa"/>
+    <img src="{{site.url}}/assets/images/posts/2022-09-20-GBS-kereru.jpg" alt="aa"/>
     <figcaption>In the winter sun.  Photo of a kererū (Hemiphaga novaeseelandiae) submitted by Nik Hurring to the annual NZGBS photo competition.</figcaption>
 </figure> 
 
