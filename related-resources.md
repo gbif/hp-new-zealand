@@ -69,7 +69,7 @@ toc: true
 * [BioWhere: Developing Methods to Georeference New Zealand’s Biota from Text](https://biowhere.massey.ac.nz/)
 * [The Biocultural Label Initiative](https://www.enrich-hub.org/bc-labels)
 
-We welcome additions or corrections to this page by emailing us at XXXXX 
+We welcome additions or corrections to this page by emailing us at [gbif.newzealand+nodemanager@gmail.com](mailto:gbif.newzealand+nodemanager@gmail.com).
 
 
 
