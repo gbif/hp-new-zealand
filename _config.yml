@@ -23,7 +23,7 @@ email: gbif.newzealand@gmail.com
 description: >- # this means to ignore newlines (until baseurl:)
   The GBIF New Zealand portal provides access to primary biodiversity data for Aotearoa New Zealand.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.gbif.org.nz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gbif.org.nz" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  AaronWilton
 
