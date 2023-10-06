@@ -20,7 +20,7 @@ var siteConfig = {
       zoom: 3.5
     },
     excludedFilters: ['country'],
-    defaultTableColumns: ['features', 'coordinates', 'year', 'basisOfRecord', 'dataset', 'publisher', 'catalogNumber'], // the first column will always be scientificName, that cannot be changed
+    availableTableColumns: ['features', 'coordinates', 'year', 'basisOfRecord', 'dataset', 'publisher', 'catalogNumber'], // the first column will always be scientificName, that cannot be changed
     rootPredicate: {
       "type": "and",
       "predicates": [
