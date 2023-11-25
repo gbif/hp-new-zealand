@@ -21,7 +21,7 @@ var siteConfig = {
     },
     excludedFilters: ['country'],
     highlightedFilters: ['typeStatus'],
-    availableTableColumns: ['features', 'coordinates', 'year', 'basisOfRecord', 'dataset', 'publisher', 'catalogNumber'], // the first column will always be scientificName, that cannot be changed
+    availableTableColumns: ['features', 'coordinates', 'year', 'basisOfRecord', 'dataset', 'publisher', 'catalogNumber', 'typeStatus', 'institutionCode', 'collectionCode', 'recordedBy'], // the first column will always be scientificName, that cannot be changed
     defaultTableColumns: ['features', 'coordinates', 'year', 'basisOfRecord', 'dataset', 'publisher', 'catalogNumber'], // the first column will always be scientificName, that cannot be changed
     rootPredicate: {
       "type": "and",
