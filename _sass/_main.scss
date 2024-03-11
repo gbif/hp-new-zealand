@@ -48,3 +48,17 @@
 .feature-img img{
     max-height: 100%;
 }
+
+
+
+.feature-cards .feature-img img {
+   object-fit: scale-down;
+}
+.postHeader .feature-img img{
+    object-fit: scale-down;
+}
+.postHeader .feature-img{
+    background-color: white;
+    border: none;
+    
+}
