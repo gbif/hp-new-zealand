@@ -2,8 +2,7 @@
 title:  "2024 GBIF Graduate Awards - Closing soon"
 date:   2024-06-09 15:20:00 +0100
 categories: ["award","graduate researcher", "prize"]
-lang-ref: 
-
+lang-ref: graduate-award
 background: assets/images/posts/gbif-nz-news.jpg
 ---
 
