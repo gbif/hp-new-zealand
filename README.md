@@ -8,4 +8,4 @@ This Jekyll website, **[hp-new-zealand](https://hp-new-zealand.gbif.org/)**, mak
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
-> Powered by [GBIF](https://www.gbif.org/)
+> Infrastructure provided by [GBIF](https://www.gbif.org/)
