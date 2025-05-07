@@ -8,7 +8,7 @@ background: assets/images/posts/2024-06-10-gbif-nz-post.png
 
 The GBIF Graduate Researchers Awards are an annual programme that aims to foster and recognize innovative research and discovery in biodiversity informatics by graduate students whose master's and doctoral studies rely on GBIF-mediated data.
 
-The call for New Zealand nominations closes on 27 June 2025.  See the [Graduate Researchers Award](/graduate-awards) page for more details.
+The call for New Zealand nominations closes on 13 June 2025.  See the [Graduate Researchers Award](/graduate-awards) page for more details.
 
 
 
