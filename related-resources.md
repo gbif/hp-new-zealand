@@ -51,6 +51,8 @@ toc: true
   * [Decadal plan for taxonomy and biosystematics in Australia and New Zealand 2018-2027](https://www.royalsociety.org.nz/what-we-do/our-expert-advice/all-expert-advice-papers/discovering-biodiversity/)
 * Te Puni K&#333;kiri
   * [Te Pae Tawhiti: Wai 262](https://www.tpk.govt.nz/en/a-matou-whakaarotau/te-ao-maori/wai-262-te-pae-tawhiti)
+* GBIF-NZ Workshop 2025
+    * [Workshop presentations](/assets/GBIF New Zealand Workshop_25 Aug 2025_Presentations-compressed.pdf)
 
 
 ## Aotearoa New Zealand biodiversity societies and networks
