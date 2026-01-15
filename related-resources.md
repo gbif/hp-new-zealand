@@ -52,6 +52,8 @@ toc: true
 * Te Puni K&#333;kiri
   * [Te Pae Tawhiti: Wai 262](https://www.tpk.govt.nz/en/a-matou-whakaarotau/te-ao-maori/wai-262-te-pae-tawhiti)
 * GBIF-NZ Workshop 2025
+    * [Workshop report](/assets/GBIF-NZ-Workshop-2025-Report.pdf)
+    * [Workshop pre-reading material](/assets/GBIF-NZ-Workshop-2025-Report-pre-reading material.pdf)
     * [Workshop presentations](/assets/GBIF New Zealand Workshop_25 Aug 2025_Presentations-compressed.pdf)
 
 
