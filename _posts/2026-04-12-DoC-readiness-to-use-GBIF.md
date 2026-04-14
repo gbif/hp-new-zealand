@@ -23,7 +23,7 @@ The assessment recommends that DOC continue working with GBIF New Zealand, hoste
 
 This report underscores the benefits of a coordinated national approach to biodiversity data, where DOC, regional councils, and other agencies can rely on GBIF’s open, federated infrastructure to connect New Zealand’s biodiversity knowledge with the rest of the world.
 
-👉 Read the full report: [Manaaki Whenua – Landcare Research](https://datastore.landcareresearch.co.nz/dataset/d9c798b8-b3d9-469d-8263-1db02227ef85/resource/c553d531-5610-4303-ace9-fa74054db9ea/download/wilton-2025-gbif-readiness-assessment.pdf)
+👉 Read the full report: [Manaaki Whenua – Landcare Research Report](https://datastore.landcareresearch.co.nz/dataset/d9c798b8-b3d9-469d-8263-1db02227ef85/resource/c553d531-5610-4303-ace9-fa74054db9ea/download/wilton-2025-gbif-readiness-assessment.pdf)
 
 👉 Explore New Zealand’s GBIF portal: [https://www.gbif.org.nz](https://www.gbif.org.nz)
 
