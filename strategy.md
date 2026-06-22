@@ -10,11 +10,11 @@ height: 70vh
 
 This strategy is a draft that has been developed to seek feedback from the biodiversity data holders, data users and other stakeholders in Aotearoa New Zealand.
 
-# Vision for GBIF New Zealand (Draft)
+# Vision for GBIF New Zealand
 
 ##### Comprehensive biodiversity information is available to underpin research, policymaking and management of our unique New Zealand biota. 
 
-## Outcomes (Draft)
+## Outcomes
 
 * New Zealand has a **solution for open-access to primary biodiversity data** through the proven infrastructure provided by GBIF.
 * New Zealand's **biodiversity information infrastructure is enhanced** by access to GBIF network and tools that facilitate mobilising of datasets.

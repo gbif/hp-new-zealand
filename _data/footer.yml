@@ -7,10 +7,10 @@ columns:
     links:
     - text: Ministry of Business, Innovation & Employment
       href: https://www.mbie.govt.nz
-    - text: Department of Conservation
-      href: https://www.doc.govt.nz
-    - text: Manaaki Whenua — Landcare Research
-      href: https://www.landcareresearch.co.nz
+    - text: Environment Canterbury
+      href: https://www.ecan.govt.nz
+    - text: Bioeconomy Science Institute Maiangi Taiao
+      href: https://www.bioeconomyscience.co.nz
    # - text: Museum of New Zealand - Te Papa Tongarewa
    #   href: https://www.tepapa.govt.nz
 
@@ -21,10 +21,10 @@ columns:
   #    This project is open source. See `_data/footer.yml` to customize the footer.
   #  background: /assets/images/landing_page/icons/logo-xl-icon.svg
   
-  - name: Aaron Wilton
-    description:  |  # Can be Markdown
-      * Node Manager
-      * Interim email: [gbif.newzealand+nodemanager@gmail.com](mailto: gbif.newzealand+nodemanager@gmail.com)
+  # - name: Node Manager (position currently vacant — recruitment in progress)
+  #   description:  |  # Can be Markdown
+  #     * Node Manager
+  #     * Interim email: [gbif.newzealand+nodemanager@gmail.com](mailto: gbif.newzealand+nodemanager@gmail.com)
      # Social icons links defined in `_config.yml`
      # * Street name
      # * 1234 postal code

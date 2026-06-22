@@ -30,15 +30,15 @@ In 2021 GBIF New Zealand participated in GBIF's hosted node initiative resulting
 
 ### GBIF New Zealand roles
 
-**Head of Delegation**:  Meredith McKay, Department of Conservation.
+**Head of Delegation**:  Meredith McKay, Environment Canterbury.
 
-The Head of Delegation is Aotearoa New Zealand’s representative on the GBIF Governing Board, and the primary focal point for all New Zealand GBIF-related activity.
+The Head of Delegation is Aotearoa New Zealand’s representative on the GBIF Governing Board, and the primary focal point for all New Zealand GBIF-related activity. The Head of Delegation leads the strategic direction of New Zealand's GBIF participation — including oversight of the national node and ensuring that New Zealand's interests are represented globally.
 
-**Node Manager**: Aaron Wilton, Manaaki Whenua — Landcare Research.
+**Node Manager**: Node Manager (position currently vacant — recruitment in progress).
 
 The Node Manager promotes GBIF and connects the broad range of Aotearoa New Zealand stakeholders with interests in biodiversity data, enabling them to contribute to and benefit from participation in the GBIF network. Stakeholders include data holders, biodiversity knowledge experts, data users, and decision-makers.
 
-**MBIE contact**:  Heather Penny
+**MBIE contact**:  Jane Baxter
 
 
 
