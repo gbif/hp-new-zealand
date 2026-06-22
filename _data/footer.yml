@@ -21,10 +21,10 @@ columns:
   #    This project is open source. See `_data/footer.yml` to customize the footer.
   #  background: /assets/images/landing_page/icons/logo-xl-icon.svg
   
-  # - name: Node Manager (position currently vacant — recruitment in progress)
-  #   description:  |  # Can be Markdown
-  #     * Node Manager
-  #     * Interim email: [gbif.newzealand+nodemanager@gmail.com](mailto: gbif.newzealand+nodemanager@gmail.com)
+  - name: Node Manager (position currently vacant — recruitment in progress)
+    description:  |  # Can be Markdown
+      * Node Manager
+      * Interim email: [gbif.newzealand+nodemanager@gmail.com](mailto: gbif.newzealand+nodemanager@gmail.com)
      # Social icons links defined in `_config.yml`
      # * Street name
      # * 1234 postal code
